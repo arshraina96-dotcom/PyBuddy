@@ -1,0 +1,6 @@
+{
+  "name": "PyBuddy – Personal Python Programming Assistant",
+  "description": "Learn Python. Understand Logic. Code Confidently. An AI-powered personal Python tutor with Hinglish teaching mode, interactive dry runs, code debugger, and Hallmark AI Skills Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
